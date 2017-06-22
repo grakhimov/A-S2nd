@@ -1,0 +1,13 @@
+# exclude IntelliJ Idea project files
+.idea
+*.iml
+*.ipr
+*.iws
+*.ids
+# exclude top level project files
+#/config
+/data
+/log
+/temp
+out/
+meta-inf/
